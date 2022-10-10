@@ -1,0 +1,32 @@
+footer{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding-top: 30px;
+    background-color: rgba(244, 123, 17, 0.856);
+    
+    position: relative;
+    display:flex;
+    flex-direction: column;
+    justify-content:space-between;
+    top:300px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+body{
+   
+    background-image: url(4.webp);
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+}
+h1{
+    font-size: 84px;
+    text-align: center;
+ font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    font-size: 36px;
+    text-align: center;
+ font-family: Arial, Helvetica, sans-serif;
+}
